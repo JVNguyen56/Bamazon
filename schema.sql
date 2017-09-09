@@ -1,6 +1,6 @@
 CREATE DATABASE Bamazon_db;
 
-USE Bamazon;
+USE Bamazon_db;
 
 CREATE TABLE Products(
     ItemID MEDIUMINT AUTO_INCREMENT NOT NULL,

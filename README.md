@@ -1,4 +1,4 @@
-# Bamazon# BAMazon
+# BAMazon
 
 The goal was to create an Amazon-like store front using Node.js and MySQL.
 
@@ -66,7 +66,7 @@ The goal was to create an Amazon-like store front using Node.js and MySQL.
 ## Technologies used
 - Node.js
 - Inquire NPM Package (https://www.npmjs.com/package/inquirer)
-- MYSQL NPM Package (https://www.npmjs.com/package/mysql)
+- SequelPro 
 
 ## Author
 

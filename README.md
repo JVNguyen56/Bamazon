@@ -66,7 +66,7 @@ The goal was to create an Amazon-like store front using Node.js and MySQL.
 
 * bamazonCustomer.js (https://www.youtube.com/watch?v=G0_9vdXsqiQ&feature=youtu.be)
 
-* bamazonManager.js (https://www.youtube.com/watch?v=pM4tQPsNcgA&feature=youtu.be)
+* bamazonManager.js (https://www.youtube.com/watch?v=CVJPWqQAfKk&feature=youtu.be)
 
 * bamazonSupervisor.js (https://www.youtube.com/watch?v=HMsGEFs50VU&feature=youtu.be)
 

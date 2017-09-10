@@ -62,6 +62,13 @@ The goal was to create an Amazon-like store front using Node.js and MySQL.
     * If the manager selects `Create New Department`, it allows the manager to create a new department and input current overhead costs and product sales. If there are none, by default it will set at 0.
 
     * If the manager selects `End Session`, it ends the session and doesn't go back to the menu.
+## Demo Videos
+
+* bamazonCustomer.js (https://www.youtube.com/watch?v=G0_9vdXsqiQ&feature=youtu.be)
+
+* bamazonManager.js (https://www.youtube.com/watch?v=pM4tQPsNcgA&feature=youtu.be)
+
+* bamazonSupervisor.js (https://www.youtube.com/watch?v=HMsGEFs50VU&feature=youtu.be)
 
 ## Technologies used
 - Node.js
